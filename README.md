@@ -1,4 +1,4 @@
-# SettingsUI
-This is Sample Javafx Settings UI
+# SignUp/SignIn UI
+This is Sample SignUp/SignIn Transformation UI built with JavaFx.
 
-![Undecorated Scene](https://media.giphy.com/media/u03S5oKviCgeO4aXRw/giphy.gif "MarineGEO logo")
+![Undecorated Scene](https://media.giphy.com/media/GnCIjXB8Th2BHKBKu2/giphy.gif "Working GIF")
